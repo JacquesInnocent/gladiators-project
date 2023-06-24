@@ -21,3 +21,4 @@ function numCheck(num) {
     }
     
 }
+numCheck(num)
