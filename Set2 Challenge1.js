@@ -13,7 +13,7 @@ function numCheck(num) {
         let result = first * second
 
             if (sum + result === num) {
-                document.write (num)  
+                return num;  
             }
             else {
                 return '';
