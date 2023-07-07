@@ -5,3 +5,6 @@ function twoSum(nums, target){
 }
 
 //To be finished
+
+//2 params named twoSam: nums and target.
+//array of integers  = nums = [] and target 
